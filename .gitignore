@@ -3,3 +3,4 @@ browser.json
 /export_files
 __pycache__
 .env
+.vscode
