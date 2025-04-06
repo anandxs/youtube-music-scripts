@@ -24,9 +24,9 @@ import os
 
 from ytmusicapi import YTMusic
 
-ytmusic = YTMusic("browser.json")  # Enter your browser.json file path here
+ytmusic = YTMusic("browser.json")
 
-tracks = ytmusic.get_library_songs(limit=200)
+tracks = ytmusic.get_library_songs(limit=2000)
 
 output_dir = "export_files"
 os.makedirs(output_dir, exist_ok=True)
