@@ -73,5 +73,34 @@ def callback():
     return response.json()
 
 
+@app.route("/refresh_token")
+def refresh_token():
+    with open("token.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    access_token = data["access_token"]
+
+    body = {
+        "grant_type": "refresh_token",
+        "refresh_token": data["refresh_token"],
+        "client_id": client_id,
+    }
+
+    headers = {
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Authorization": f"Basic {base64.b64encode(f"{client_id}:{client_secret}".encode()).decode()}",
+    }
+
+    response = requests.post(
+        "https://accounts.spotify.com/api/token", headers=headers, data=body
+    )
+
+    if response.status_code == 200:
+        with open("token.json", "w", encoding="utf-8") as f:
+            json.dump(response.json(), f, indent=4)
+
+    return response.json()
+
+
 if __name__ == "__main__":
     app.run(port=3000, debug=True)
