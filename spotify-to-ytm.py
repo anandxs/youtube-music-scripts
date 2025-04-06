@@ -46,13 +46,13 @@ while next_url:
             search_query = f"{track_name} - {artists_names}"
 
             try:
-                search_results = ytmusic.search(search_query, filter="songs", limit=50)
+                search_results = ytmusic.search(search_query, filter="songs", limit=20)
 
                 found = False
                 for result in search_results:
                     if (
-                        result["title"] == track_name
-                        and result["artists"][0]["name"] in artists_names
+                        result["title"].lower() == track_name.lower()
+                        and result["artists"][0]["name"].lower() in artists_names.lower()
                     ):
                         save_result = ytmusic.edit_song_library_status(
                             result["feedbackTokens"]["add"]

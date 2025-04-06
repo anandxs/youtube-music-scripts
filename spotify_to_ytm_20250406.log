@@ -1017,3 +1017,271 @@
 2025-04-06 13:02:08,370 - INFO - Successfully removed 50 songs from Spotify
 2025-04-06 13:02:08,553 - INFO - Successfully removed 50 songs from Spotify
 2025-04-06 13:02:08,737 - INFO - Successfully removed 13 songs from Spotify
+2025-04-06 14:15:17,273 - ERROR - Error fetching Spotify tracks: 401 Client Error: Unauthorized for url: https://api.spotify.com/v1/me/tracks?limit=50
+2025-04-06 14:15:17,273 - INFO - No songs to remove from Spotify
+2025-04-06 14:15:40,244 - ERROR - Error fetching Spotify tracks: 401 Client Error: Unauthorized for url: https://api.spotify.com/v1/me/tracks?limit=50
+2025-04-06 14:15:40,244 - INFO - No songs to remove from Spotify
+2025-04-06 14:16:03,277 - WARNING - Could not find matching result for We Were Here - Chase Atlantic Remix - Lights, Chase Atlantic on YTM
+2025-04-06 14:16:05,173 - WARNING - Could not find matching result for Takin' My Time - Lil' Rocketman, DJ Grumble on YTM
+2025-04-06 14:16:07,064 - WARNING - Could not find matching result for Glitter & Gold - erickD, CODEWINE on YTM
+2025-04-06 14:16:09,526 - WARNING - Could not find matching result for Just Woke Up - Inteus, Ka$tro on YTM
+2025-04-06 14:16:11,121 - WARNING - Could not find matching result for Far from the Cams - Holy Mob, Necroez on YTM
+2025-04-06 14:16:12,910 - WARNING - Could not find matching result for OUTER SPACE - Mxstvh, Von Storm on YTM
+2025-04-06 14:16:15,629 - INFO - Successfully added Know Its True - Everyst, BACKWHEN to YTM
+2025-04-06 14:16:17,402 - WARNING - Could not find matching result for Trapped - Everyst, BACKWHEN, Necroez on YTM
+2025-04-06 14:16:18,488 - WARNING - Could not find matching result for Distant - BACKWHEN, Watermane on YTM
+2025-04-06 14:16:20,313 - WARNING - Could not find matching result for FEEL THE PAIN - GOTNOTIME, BIDØ on YTM
+2025-04-06 14:16:21,995 - WARNING - Could not find matching result for Sippin' - Purple Posse, Aseri on YTM
+2025-04-06 14:16:23,865 - WARNING - Could not find matching result for LIKE DAT - JASON RICH, DJ Grumble on YTM
+2025-04-06 14:16:25,064 - WARNING - Could not find matching result for CRIME PAYS - Lil' Rocketman, JASON RICH, Saleh Beats on YTM
+2025-04-06 14:16:26,769 - WARNING - Could not find matching result for KNICKEL BAGS - Lil' Rocketman, JASON RICH on YTM
+2025-04-06 14:16:29,057 - INFO - Successfully added Surfing the Wave - Phil Gerus to YTM
+2025-04-06 14:16:29,575 - WARNING - Could not find matching result for Stay Fresh As Hell - Purple Posse, BACKWOOD BOY on YTM
+2025-04-06 14:16:31,351 - WARNING - Could not find matching result for The Board Room - Bonnaz, Flytramp, jazz playaz on YTM
+2025-04-06 14:16:32,994 - WARNING - Could not find matching result for By Myself - Ponsuda., Gali on YTM
+2025-04-06 14:16:34,625 - WARNING - Could not find matching result for Dust Eater - Purple Posse, Gravy on YTM
+2025-04-06 14:16:37,345 - INFO - Successfully added Gone - Everyst, BACKWHEN to YTM
+2025-04-06 14:16:38,849 - WARNING - Could not find matching result for Why Not Me - Purple Posse, Gravy on YTM
+2025-04-06 14:16:40,640 - WARNING - Could not find matching result for FACE ME - Sad Soundcloud, demxnstr8 on YTM
+2025-04-06 14:16:43,131 - INFO - Successfully added ghosts/paranoid - sword, [bsd.u] to YTM
+2025-04-06 14:16:44,720 - WARNING - Could not find matching result for ありがとうございました - ぬいぐるみクレヨン Lush Crayon on YTM
+2025-04-06 14:16:47,001 - WARNING - Could not find matching result for Hol' Up - Holy Mob, Inteus, l v k s on YTM
+2025-04-06 14:16:49,460 - INFO - Successfully added Glock Cocked - Holy Mob, Puar to YTM
+2025-04-06 14:16:51,088 - WARNING - Could not find matching result for Audemars Piguet // Sodomy - Inteus on YTM
+2025-04-06 14:16:53,392 - INFO - Successfully added Those Days - MOTAT to YTM
+2025-04-06 14:16:55,670 - INFO - Successfully added Burn (feat. Kendra Dias) - SYRE, Kendra Dias to YTM
+2025-04-06 14:16:57,418 - WARNING - Could not find matching result for All Night - SG Lewis, Dornik on YTM
+2025-04-06 14:16:59,010 - WARNING - Could not find matching result for you & i - sped up - lucidbeatz, Emilia Ali on YTM
+2025-04-06 14:17:00,506 - WARNING - Could not find matching result for In Your Head - belac on YTM
+2025-04-06 14:17:02,777 - INFO - Successfully added Like One - Cassyb to YTM
+2025-04-06 14:17:04,976 - WARNING - Could not find matching result for trespass coat - Niko B, dexter in the newsagent on YTM
+2025-04-06 14:17:06,715 - WARNING - Could not find matching result for Baby & Bass - baby.murcielaga, $EDJI, LOVE-DISORDER on YTM
+2025-04-06 14:17:08,520 - WARNING - Could not find matching result for Supernova - M I R A G E, Neon Galaxy on YTM
+2025-04-06 14:17:11,355 - INFO - Successfully added War Clips - MOTAT to YTM
+2025-04-06 14:17:13,389 - WARNING - Could not find matching result for Make You Mine - Redhands, Inteus on YTM
+2025-04-06 14:17:15,300 - WARNING - Could not find matching result for Round & Round - Sainté on YTM
+2025-04-06 14:17:17,067 - WARNING - Could not find matching result for Hang Out (feat. MonyHorse & dodo) - VaVa, MonyHorse, dodo on YTM
+2025-04-06 14:17:18,809 - WARNING - Could not find matching result for 凍京 - VaVa, Roland Jones on YTM
+2025-04-06 14:17:20,955 - WARNING - Could not find matching result for Too Many Nights (feat. Don Toliver & with Future) - Metro Boomin, Future, Don Toliver on YTM
+2025-04-06 14:17:22,712 - WARNING - Could not find matching result for Champagne Shots - Sainté on YTM
+2025-04-06 14:17:24,375 - WARNING - Could not find matching result for Pink Dolphin Sunset (feat. Tee) - Tory Lanez, Tee on YTM
+2025-04-06 14:17:26,310 - WARNING - Could not find matching result for Wait - HYOLYN on YTM
+2025-04-06 14:17:27,980 - INFO - Successfully added bella - EKKSTACY to YTM
+2025-04-06 14:17:30,189 - INFO - Successfully added Shining - MOTAT to YTM
+2025-04-06 14:17:32,642 - WARNING - Could not find matching result for No Less - SG Lewis, Louis Mattrs on YTM
+2025-04-06 14:17:34,744 - WARNING - Could not find matching result for Never Fade Away - SAMURAI, Refused on YTM
+2025-04-06 14:17:36,608 - WARNING - Could not find matching result for Bolide Noir - Central Cee, JRK 19 on YTM
+2025-04-06 14:17:38,509 - WARNING - Could not find matching result for No Hook - Hanumankind, Kalmi on YTM
+2025-04-06 14:17:40,043 - WARNING - Could not find matching result for Nebula - BACKWHEN, Von Storm on YTM
+2025-04-06 14:17:41,915 - WARNING - Could not find matching result for 1st Class - Sound's Deli on YTM
+2025-04-06 14:17:43,909 - WARNING - Could not find matching result for Fanum - Fanum on YTM
+2025-04-06 14:17:46,385 - INFO - Successfully added いつか会いたい - AKIBA to YTM
+2025-04-06 14:17:48,119 - WARNING - Could not find matching result for Goodbye - FM-84, Clive Farrington on YTM
+2025-04-06 14:17:49,879 - WARNING - Could not find matching result for hurts 2 hate somebody (with Chase Atlantic & No Rome) - ELIO, Chase Atlantic, No Rome on YTM
+2025-04-06 14:17:51,732 - WARNING - Could not find matching result for Getaway - Koven Remix - Tritonal, Angel Taylor, Koven on YTM
+2025-04-06 14:17:53,832 - INFO - Successfully added On the Nightway - admo to YTM
+2025-04-06 14:17:55,583 - WARNING - Could not find matching result for Tiring Game - John Newman, Charlie Wilson on YTM
+2025-04-06 14:17:57,561 - WARNING - Could not find matching result for Call on Me - Radio Mix - Eric Prydz on YTM
+2025-04-06 14:17:58,870 - INFO - Successfully added Dedicated - MOTAT to YTM
+2025-04-06 14:18:01,276 - INFO - Successfully added Godless Girl - The Chain Gang Of 1974 to YTM
+2025-04-06 14:18:02,506 - WARNING - Could not find matching result for Forget - The Chain Gang Of 1974, Alisa Xayalith on YTM
+2025-04-06 14:18:02,990 - WARNING - Could not find matching result for YORU -MY TYPICAL DAY- - Sound's Deli, Puckafall on YTM
+2025-04-06 14:18:05,425 - INFO - Successfully added Holding On - VICTORS to YTM
+2025-04-06 14:18:07,480 - WARNING - Could not find matching result for Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray) - Metro Boomin, Coi Leray on YTM
+2025-04-06 14:18:09,583 - WARNING - Could not find matching result for Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee) - Metro Boomin, A$AP Rocky, Roisee on YTM
+2025-04-06 14:18:11,659 - WARNING - Could not find matching result for Like That - Future, Metro Boomin, Kendrick Lamar on YTM
+2025-04-06 14:18:14,241 - INFO - Successfully added Memory - Parade of Lights to YTM
+2025-04-06 14:18:16,880 - INFO - Successfully added Touch - Parade of Lights to YTM
+2025-04-06 14:18:19,212 - INFO - Successfully added Human Condition - Parade of Lights to YTM
+2025-04-06 14:18:20,932 - WARNING - Could not find matching result for run - the chain gang of 1974 remix - PRONOUN, The Chain Gang Of 1974 on YTM
+2025-04-06 14:18:24,075 - INFO - Successfully added Heaven - The Chain Gang Of 1974 to YTM
+2025-04-06 14:18:26,453 - INFO - Successfully added WHATS LEFT OF ME - Redhands to YTM
+2025-04-06 14:18:28,604 - WARNING - Could not find matching result for Rapport - Tatsuya Kitani on YTM
+2025-04-06 14:18:30,967 - INFO - Successfully added this storyends - Winnie to YTM
+2025-04-06 14:18:32,959 - WARNING - Could not find matching result for Chippin' In - SAMURAI, Refused on YTM
+2025-04-06 14:18:35,316 - WARNING - Could not find matching result for Bury the Light - Casey Edwards on YTM
+2025-04-06 14:18:37,943 - INFO - Successfully added distance - Long Shot Party to YTM
+2025-04-06 14:18:39,741 - WARNING - Could not find matching result for Pressure (with SG Lewis) - James Vickery, SG Lewis on YTM
+2025-04-06 14:18:41,967 - WARNING - Could not find matching result for Money Trees - Kendrick Lamar, Jay Rock on YTM
+2025-04-06 14:18:44,163 - WARNING - Could not find matching result for On My Own - Jaden, Kid Cudi on YTM
+2025-04-06 14:18:46,669 - INFO - Successfully added IN MY WORLD - ROOKiEZ is PUNK'D to YTM
+2025-04-06 14:18:49,287 - WARNING - Could not find matching result for >one - greater than one - VALORANT, ericdoa on YTM
+2025-04-06 14:18:51,369 - WARNING - Could not find matching result for Fire Again - VALORANT, Ashnikko on YTM
+2025-04-06 14:18:52,947 - WARNING - Could not find matching result for RAJA - VALORANT, ARB4, Tienas, Mangal Suvarnan on YTM
+2025-04-06 14:18:55,199 - WARNING - Could not find matching result for Where Are Ü Now (with Justin Bieber) - Jack Ü, Skrillex, Diplo, Justin Bieber on YTM
+2025-04-06 14:18:57,107 - WARNING - Could not find matching result for Sing It Louder - Particle House, Le June on YTM
+2025-04-06 14:18:58,723 - WARNING - Could not find matching result for RGB - Scattle on YTM
+2025-04-06 14:19:00,396 - WARNING - Could not find matching result for Tokyo Dreaming - Particle House, Le June on YTM
+2025-04-06 14:19:01,932 - WARNING - Could not find matching result for E N D L E S S - De Lorra on YTM
+2025-04-06 14:19:03,984 - WARNING - Could not find matching result for Howling - Andromedik Remix - Cartoon, Jéja, Andromedik, Asena on YTM
+2025-04-06 14:19:05,708 - WARNING - Could not find matching result for Cooler Than Me - Single Mix - Mike Posner, Gigamesh on YTM
+2025-04-06 14:19:07,814 - WARNING - Could not find matching result for Closer - The Chainsmokers, Halsey on YTM
+2025-04-06 14:19:09,706 - WARNING - Could not find matching result for One More Dance (feat. IO, Gottz & Holly Q) - KANDYTOWN, Gottz, Holly Q, IO on YTM
+2025-04-06 14:19:12,299 - WARNING - Could not find matching result for I Feel It Coming - The Weeknd, Daft Punk on YTM
+2025-04-06 14:19:15,012 - INFO - Successfully added Slow It Down - Islandis to YTM
+2025-04-06 14:19:16,936 - WARNING - Could not find matching result for Friday Night - SEGA SOUND TEAM, 稲毛 謙介, 荒井 善博 on YTM
+2025-04-06 14:19:18,861 - WARNING - Could not find matching result for PROVEN - BEFORE MY LIFE FAILS on YTM
+2025-04-06 14:19:20,883 - WARNING - Could not find matching result for ハルカカナタ - UNLIMITS on YTM
+2025-04-06 14:19:22,483 - WARNING - Could not find matching result for RENEGADE - VALORANT, 99 God, C-Low赵贵梁 on YTM
+2025-04-06 14:19:24,996 - INFO - Successfully added Giving It Up - The Chain Gang Of 1974 to YTM
+2025-04-06 14:19:26,637 - WARNING - Could not find matching result for The Rumble - CiniMod on YTM
+2025-04-06 14:19:28,362 - WARNING - Could not find matching result for Monarch - Holy Mob, SHELTR., Inteus on YTM
+2025-04-06 14:19:30,261 - WARNING - Could not find matching result for Dark All Day - Gunship, Tim Cappello, Indiana on YTM
+2025-04-06 14:19:32,005 - WARNING - Could not find matching result for Tech Noir - Gunship, John Carpenter, Charlie Simpson on YTM
+2025-04-06 14:19:34,149 - WARNING - Could not find matching result for Lean On - Major Lazer, DJ Snake, MØ on YTM
+2025-04-06 14:19:35,862 - WARNING - Could not find matching result for More Than Me - Holy Mob, Caspian Rose on YTM
+2025-04-06 14:19:38,198 - INFO - Successfully added Cocoa - MOTAT to YTM
+2025-04-06 14:19:40,531 - INFO - Successfully added Ride Clean (Robbin' Mobbin') - Dj Smokey to YTM
+2025-04-06 14:19:41,517 - WARNING - Could not find matching result for 17 SHELLS - Goupil. on YTM
+2025-04-06 14:19:43,309 - WARNING - Could not find matching result for Snort That P - Holy Mob, Von Storm, SHELTR. on YTM
+2025-04-06 14:19:44,929 - WARNING - Could not find matching result for CLONED - Sad Soundcloud, Destro on YTM
+2025-04-06 14:19:46,651 - WARNING - Could not find matching result for From You - Bonobo, Joji on YTM
+2025-04-06 14:19:49,141 - INFO - Successfully added Yellow Diamonds - MOTAT, GOTNOTIME to YTM
+2025-04-06 14:19:50,820 - WARNING - Could not find matching result for Perfect Aim - Holy Mob, Necroez, Von Storm on YTM
+2025-04-06 14:19:52,585 - WARNING - Could not find matching result for Sunsets - Pt. 2 - SG Lewis on YTM
+2025-04-06 14:19:53,846 - WARNING - Could not find matching result for Bucked Up - Holy Mob, Inteus, Von Storm on YTM
+2025-04-06 14:19:55,912 - WARNING - Could not find matching result for Rules & Regulations - Holy Mob, Inteus, Redhands on YTM
+2025-04-06 14:19:57,945 - WARNING - Could not find matching result for Enemies - Holy Mob, Caspian Rose, Von Storm, Necroez on YTM
+2025-04-06 14:19:59,798 - WARNING - Could not find matching result for .44 - Necroez, Von Storm on YTM
+2025-04-06 14:20:00,853 - WARNING - Could not find matching result for Oztroja - demo - Zeruel on YTM
+2025-04-06 14:20:02,578 - WARNING - Could not find matching result for You Up? - Johan Lenox, Ant Clemons on YTM
+2025-04-06 14:20:04,217 - WARNING - Could not find matching result for Pure Hydro - BABYLON MAYNE, Donvtello on YTM
+2025-04-06 14:20:05,783 - WARNING - Could not find matching result for FREQUENCY - INFINITE.WAV, Zero on YTM
+2025-04-06 14:20:07,459 - WARNING - Could not find matching result for Illusions - Redhands, Inteus, Caspian Rose on YTM
+2025-04-06 14:20:09,119 - WARNING - Could not find matching result for BODY NUMB - INFINITE.WAV, Inteus on YTM
+2025-04-06 14:20:10,889 - WARNING - Could not find matching result for Matsuri - Fujii Kaze on YTM
+2025-04-06 14:20:12,526 - WARNING - Could not find matching result for Self-Destruction - Holy Mob, Redhands, Necroez on YTM
+2025-04-06 14:20:14,105 - WARNING - Could not find matching result for Weighted Die - Holy Mob, Inteus on YTM
+2025-04-06 14:20:15,958 - WARNING - Could not find matching result for DeathTrain - Ricky A Go Go, BONES on YTM
+2025-04-06 14:20:17,498 - WARNING - Could not find matching result for reference bounce - BETWEEN FRIENDS, EDEN on YTM
+2025-04-06 14:20:19,248 - WARNING - Could not find matching result for Paper Flowers - Remix - PHNTMS, Josh Dally on YTM
+2025-04-06 14:20:20,906 - WARNING - Could not find matching result for Ocean - Ryan Celsius Sounds, AKIBA on YTM
+2025-04-06 14:20:23,578 - INFO - Successfully added Your Lover - Islandis to YTM
+2025-04-06 14:20:26,075 - INFO - Successfully added Times We Had - The Chain Gang Of 1974 to YTM
+2025-04-06 14:20:27,746 - WARNING - Could not find matching result for Highwire Days - CHADWICK Remix - The Chain Gang Of 1974, CHADWICK on YTM
+2025-04-06 14:20:30,164 - INFO - Successfully added Highwire Days - The Chain Gang Of 1974 to YTM
+2025-04-06 14:20:32,955 - INFO - Successfully added Uppercuts - Terror Reid to YTM
+2025-04-06 14:20:34,729 - WARNING - Could not find matching result for Damage - PARTYNEXTDOOR, Halsey on YTM
+2025-04-06 14:20:36,737 - WARNING - Could not find matching result for Curtain Call (feat. KEIJU, Ryohu & IO) - KANDYTOWN, IO, KEIJU, Ryohu on YTM
+2025-04-06 14:20:38,700 - WARNING - Could not find matching result for Never Be Like You - Flume, kai on YTM
+2025-04-06 14:20:41,015 - WARNING - Could not find matching result for Lights Out - Taska Black, Alioth on YTM
+2025-04-06 14:20:44,176 - INFO - Successfully added DIE OUT HERE (FEAT. POORSTACY) - DE'WAYNE, POORSTACY to YTM
+2025-04-06 14:20:46,124 - WARNING - Could not find matching result for Life's Coming in Slow - from GRAN TURISMO 7 - Nothing But Thieves on YTM
+2025-04-06 14:20:47,909 - WARNING - Could not find matching result for These Walls - Kendrick Lamar, Bilal, Anna Wise, Thundercat on YTM
+2025-04-06 14:20:49,554 - WARNING - Could not find matching result for Coming Off (w/ Brevin Kim) - Bluey Thomas, Brevin Kim on YTM
+2025-04-06 14:20:51,153 - WARNING - Could not find matching result for Night Vision - Vansire, Barrie on YTM
+2025-04-06 14:20:53,583 - INFO - Successfully added Do You Mind? - The Chain Gang Of 1974 to YTM
+2025-04-06 14:20:55,850 - WARNING - Could not find matching result for Wanting This - The Chain Gang Of 1974 on YTM
+2025-04-06 14:20:58,520 - INFO - Successfully added Simulation - Smallpools to YTM
+2025-04-06 14:21:00,022 - WARNING - Could not find matching result for Précis - Vansire, Fog Lake on YTM
+2025-04-06 14:21:01,987 - WARNING - Could not find matching result for DRUM GO DUM - K/DA, Wolftyla, Bekuh Boom, Aluna, League of Legends on YTM
+2025-04-06 14:21:03,676 - WARNING - Could not find matching result for Motion (with Yot Club) - Smallpools, Yot Club on YTM
+2025-04-06 14:21:05,781 - WARNING - Could not find matching result for Ballin' (with Roddy Ricch) - Mustard, Roddy Ricch on YTM
+2025-04-06 14:21:07,555 - WARNING - Could not find matching result for Feel Good - Jitwam, Cosmo's Midnight on YTM
+2025-04-06 14:21:09,760 - WARNING - Could not find matching result for One Right Now (with The Weeknd) - Post Malone, The Weeknd on YTM
+2025-04-06 14:21:11,530 - WARNING - Could not find matching result for In / Out - Baardsen Remix - Dan Croll, Andrew Baardsen on YTM
+2025-04-06 14:21:13,431 - WARNING - Could not find matching result for This fffire - New Version - Franz Ferdinand on YTM
+2025-04-06 14:21:15,117 - WARNING - Could not find matching result for Fillmore County - Vansire, FLOOR CRY on YTM
+2025-04-06 14:21:16,863 - WARNING - Could not find matching result for Think it Through - Vansire, India Shawn on YTM
+2025-04-06 14:21:19,077 - WARNING - Could not find matching result for Précis Two - Vansire, Ivy Sole on YTM
+2025-04-06 14:21:21,872 - INFO - Successfully added BURN IT DOWN - Linkin Park to YTM
+2025-04-06 14:21:23,366 - WARNING - Could not find matching result for Clova - PYLOT on YTM
+2025-04-06 14:21:24,965 - WARNING - Could not find matching result for Run Away - BOP, Subwave, Karina Ramage on YTM
+2025-04-06 14:21:26,699 - WARNING - Could not find matching result for Luna - 2011 Remaster - The Smashing Pumpkins on YTM
+2025-04-06 14:21:29,175 - INFO - Successfully added Coastal Drive - admo to YTM
+2025-04-06 14:21:30,396 - WARNING - Could not find matching result for Neybors - Heno., Elujay, J.Robb on YTM
+2025-04-06 14:21:32,032 - WARNING - Could not find matching result for Midnight In A Perfect World - Hudson Mohawke Remix - DJ Shadow, Hudson Mohawke on YTM
+2025-04-06 14:21:33,679 - WARNING - Could not find matching result for Changing of the Guards - Pusha T, Diddy on YTM
+2025-04-06 14:21:35,449 - WARNING - Could not find matching result for ファックラブ - ぬいぐるみクレヨン Lush Crayon on YTM
+2025-04-06 14:21:37,093 - WARNING - Could not find matching result for Zen - Chris Heria on YTM
+2025-04-06 14:21:38,606 - WARNING - Could not find matching result for Sinner - Chris Heria on YTM
+2025-04-06 14:21:40,234 - WARNING - Could not find matching result for Take Off - Chris Heria on YTM
+2025-04-06 14:21:42,509 - INFO - Successfully added Sometimes,IDontUnderstand - surrenderdorothy to YTM
+2025-04-06 14:21:44,333 - WARNING - Could not find matching result for Test Pilot - Stilz, The Encounter on YTM
+2025-04-06 14:21:46,036 - WARNING - Could not find matching result for Telepathy - ✝✝✝ (Crosses) on YTM
+2025-04-06 14:21:47,768 - WARNING - Could not find matching result for Music Sounds Better With You - Radio Edit - Stardust, Benjamin Diamond, Alan Braxe, Thomas Bangalter on YTM
+2025-04-06 14:21:50,028 - WARNING - Could not find matching result for Sunflower - Spider-Man: Into the Spider-Verse - Post Malone, Swae Lee on YTM
+2025-04-06 14:21:51,820 - WARNING - Could not find matching result for nikes - SLIGHT on YTM
+2025-04-06 14:21:53,929 - WARNING - Could not find matching result for Bombay Leanin' - Brenk Sinatra, Saiko on YTM
+2025-04-06 14:21:56,246 - INFO - Successfully added Pullin Stunts - Roland Jones to YTM
+2025-04-06 14:21:57,970 - WARNING - Could not find matching result for I Be That Mf - Soudiere, Dj Smokey, Mr sisco on YTM
+2025-04-06 14:22:00,884 - INFO - Successfully added I Am Rock - rock to YTM
+2025-04-06 14:22:03,128 - WARNING - Could not find matching result for OUTSIDERS PT.2 - TAKEDA, Petsmpi, SPVRROW, glaucoma, NIKTR on YTM
+2025-04-06 14:22:05,024 - WARNING - Could not find matching result for Certified Star - GALI222, Necroez on YTM
+2025-04-06 14:22:07,119 - WARNING - Could not find matching result for Whole Lotta Schemin' - Inteus, Soudiere on YTM
+2025-04-06 14:22:08,883 - WARNING - Could not find matching result for LOVE ME - KLOUD, Gabriel Paris on YTM
+2025-04-06 14:22:10,437 - WARNING - Could not find matching result for Blue World - Original Mix - Jasper Byrne on YTM
+2025-04-06 14:22:11,573 - WARNING - Could not find matching result for Make Me Wana Run - Lucy In Disguise, Graywave on YTM
+2025-04-06 14:22:13,897 - WARNING - Could not find matching result for I Took A Pill In Ibiza - Seeb Remix - Mike Posner, Seeb on YTM
+2025-04-06 14:22:16,414 - INFO - Successfully added Alone - Awake the Dreamer to YTM
+2025-04-06 14:22:18,174 - WARNING - Could not find matching result for Isometric Air - Bryan Aspey, Quantum Lovers on YTM
+2025-04-06 14:22:20,583 - INFO - Successfully added then i met her - EKKSTACY to YTM
+2025-04-06 14:22:22,392 - WARNING - Could not find matching result for ロスタイム - Creepy Nuts on YTM
+2025-04-06 14:22:24,900 - INFO - Successfully added Major Crimes - HEALTH, Window Weather to YTM
+2025-04-06 14:22:26,652 - WARNING - Could not find matching result for Locke - PYLOT on YTM
+2025-04-06 14:22:28,218 - WARNING - Could not find matching result for 野の春 - Yoshihisa Hirano on YTM
+2025-04-06 14:22:30,546 - INFO - Successfully added The Unknown - peach tinted to YTM
+2025-04-06 14:22:31,498 - WARNING - Could not find matching result for 435am - Loosevinci, Ramzoid on YTM
+2025-04-06 14:22:33,368 - WARNING - Could not find matching result for The Massacre Downtown - Under Valium on YTM
+2025-04-06 14:22:35,414 - WARNING - Could not find matching result for Silence Speaks - While She Sleeps, Oli Sykes on YTM
+2025-04-06 14:22:38,040 - INFO - Successfully added UNDERWORLD - VAMPS to YTM
+2025-04-06 14:22:39,869 - WARNING - Could not find matching result for The Plan - From the Motion Picture "TENET" - Travis Scott on YTM
+2025-04-06 14:22:41,663 - WARNING - Could not find matching result for Memories - Foxera, Tilian on YTM
+2025-04-06 14:22:42,747 - WARNING - Could not find matching result for Don't Matter - Cherokee Shore Version - Cherokee, Darianna Everett on YTM
+2025-04-06 14:22:44,635 - WARNING - Could not find matching result for Anjunabeach - Extended Mix - Above & Beyond on YTM
+2025-04-06 14:22:46,321 - WARNING - Could not find matching result for Dusk - Lucy In Disguise, Observer Drift on YTM
+2025-04-06 14:22:48,902 - INFO - Successfully added i walk this earth all by myself - EKKSTACY to YTM
+2025-04-06 14:22:50,615 - WARNING - Could not find matching result for Hyouriittai - YUZU on YTM
+2025-04-06 14:22:52,568 - WARNING - Could not find matching result for The Difference - Flume, Toro y Moi on YTM
+2025-04-06 14:22:54,495 - WARNING - Could not find matching result for Night SURFING - (K)NoW_NAME on YTM
+2025-04-06 14:22:56,698 - WARNING - Could not find matching result for aLIEz - SawanoHiroyuki[nZk], mizuki on YTM
+2025-04-06 14:22:59,455 - INFO - Successfully added Emotions - ALEX to YTM
+2025-04-06 14:23:02,223 - INFO - Successfully added Ride on Shooting Star - the pillows to YTM
+2025-04-06 14:23:04,859 - INFO - Successfully added Paris - RITCHRD to YTM
+2025-04-06 14:23:07,192 - INFO - Successfully added Darkest Little Friend - Heyz, darkDARK to YTM
+2025-04-06 14:23:08,802 - WARNING - Could not find matching result for Planetary - Blair, Argonaut & Wasp on YTM
+2025-04-06 14:23:11,624 - INFO - Successfully added Lived A Lie - You Me At Six to YTM
+2025-04-06 14:23:13,442 - WARNING - Could not find matching result for Halo - Martin O'Donnell, Michael Salvatori on YTM
+2025-04-06 14:23:15,724 - WARNING - Could not find matching result for Somebody That I Used To Know - Gotye, Kimbra on YTM
+2025-04-06 14:23:17,349 - WARNING - Could not find matching result for 3分29秒 - Hitorie on YTM
+2025-04-06 14:23:19,353 - WARNING - Could not find matching result for Avid - SawanoHiroyuki[nZk], mizuki on YTM
+2025-04-06 14:23:21,800 - INFO - Successfully added ASTRAL - BLADEFEAR to YTM
+2025-04-06 14:23:23,452 - WARNING - Could not find matching result for CHA-LA HEAD-CHA-LA (2005 ver.) (ドラゴンボールZ) - Hironobu Kageyama on YTM
+2025-04-06 14:23:25,391 - WARNING - Could not find matching result for GIANTS - True Damage, Becky G, Keke Palmer, JEON SOYEON, Duckwrth, Thutmose, League of Legends on YTM
+2025-04-06 14:23:27,203 - WARNING - Could not find matching result for Last Theater - NoisyCell on YTM
+2025-04-06 14:23:28,951 - WARNING - Could not find matching result for COLORS - フロウ on YTM
+2025-04-06 14:23:31,528 - INFO - Successfully added DLZ - TV On The Radio to YTM
+2025-04-06 14:23:33,727 - WARNING - Could not find matching result for Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers] - Daft Punk, Pharrell Williams, Nile Rodgers on YTM
+2025-04-06 14:23:35,712 - WARNING - Could not find matching result for Gravity Hurts - Cryoshell, Brinck on YTM
+2025-04-06 14:23:37,836 - WARNING - Could not find matching result for Summer Of '69 - Bryan Adams on YTM
+2025-04-06 14:23:39,722 - WARNING - Could not find matching result for Wonderwall - Remastered - Oasis on YTM
+2025-04-06 14:23:41,436 - WARNING - Could not find matching result for Where Is My Mind? - 2007 Remaster - Pixies on YTM
+2025-04-06 14:23:43,032 - WARNING - Could not find matching result for 無能 - Österreich on YTM
+2025-04-06 14:23:44,844 - WARNING - Could not find matching result for Miami - Original Mix - Jasper Byrne on YTM
+2025-04-06 14:23:46,645 - WARNING - Could not find matching result for Orch Compression - Chroma Music, Odd Banker on YTM
+2025-04-06 14:23:48,392 - WARNING - Could not find matching result for Spoiler - Original Mix - Hyper on YTM
+2025-04-06 14:23:50,111 - WARNING - Could not find matching result for Kansai Life - MIYACHI on YTM
+2025-04-06 14:23:50,304 - INFO - Successfully removed 50 songs from Spotify
+2025-04-06 14:23:50,491 - INFO - Successfully removed 4 songs from Spotify
+2025-04-06 14:46:39,229 - INFO - No songs to remove from Spotify
+2025-04-06 14:47:42,874 - WARNING - Could not find matching result for We Were Here - Chase Atlantic Remix - Lights, Chase Atlantic on YTM
+2025-04-06 14:47:43,474 - WARNING - Could not find matching result for Takin' My Time - Lil' Rocketman, DJ Grumble on YTM
+2025-04-06 14:47:44,041 - WARNING - Could not find matching result for Glitter & Gold - erickD, CODEWINE on YTM
+2025-04-06 14:47:44,699 - WARNING - Could not find matching result for Just Woke Up - Inteus, Ka$tro on YTM
+2025-04-06 14:47:45,295 - WARNING - Could not find matching result for Far from the Cams - Holy Mob, Necroez on YTM
+2025-04-06 14:47:45,864 - WARNING - Could not find matching result for OUTER SPACE - Mxstvh, Von Storm on YTM
+2025-04-06 14:47:46,404 - WARNING - Could not find matching result for Trapped - Everyst, BACKWHEN, Necroez on YTM
+2025-04-06 14:47:46,919 - WARNING - Could not find matching result for Distant - BACKWHEN, Watermane on YTM
+2025-04-06 14:47:47,487 - WARNING - Could not find matching result for FEEL THE PAIN - GOTNOTIME, BIDØ on YTM
+2025-04-06 14:47:47,991 - WARNING - Could not find matching result for Sippin' - Purple Posse, Aseri on YTM
+2025-04-06 14:47:48,652 - WARNING - Could not find matching result for LIKE DAT - JASON RICH, DJ Grumble on YTM
+2025-04-06 14:48:31,667 - WARNING - Could not find matching result for We Were Here - Chase Atlantic Remix - Lights, Chase Atlantic on YTM
+2025-04-06 14:48:32,783 - WARNING - Could not find matching result for Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray) - Metro Boomin, Coi Leray on YTM
+2025-04-06 14:48:33,713 - WARNING - Could not find matching result for Self-Destruction - Holy Mob, Redhands, Necroez on YTM
+2025-04-06 14:48:34,761 - WARNING - Could not find matching result for I Took A Pill In Ibiza - Seeb Remix - Mike Posner, Seeb on YTM
+2025-04-06 14:48:34,761 - INFO - No songs to remove from Spotify
+2025-04-06 14:54:46,954 - WARNING - Could not find matching result for We Were Here - Chase Atlantic Remix - Lights, Chase Atlantic on YTM
+2025-04-06 14:54:48,084 - WARNING - Could not find matching result for Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray) - Metro Boomin, Coi Leray on YTM
+2025-04-06 14:54:49,217 - WARNING - Could not find matching result for Self-Destruction - Holy Mob, Redhands, Necroez on YTM
+2025-04-06 14:54:50,293 - WARNING - Could not find matching result for I Took A Pill In Ibiza - Seeb Remix - Mike Posner, Seeb on YTM
+2025-04-06 14:54:50,293 - INFO - No songs to remove from Spotify
