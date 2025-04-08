@@ -1,10 +1,8 @@
 import json
 import logging
-
-from datetime import datetime
-
 import os
 import time
+from datetime import datetime
 
 from dotenv import load_dotenv
 from google import genai
@@ -30,11 +28,14 @@ tokens = []
 
 def generate_prompt(query, results):
     return f"""
-You are given a query and a list of results.
+You are given a query and a list of results. The query contains the name of the song followed by the names of the artists.
+The results are the results from searching for the query in YouTube Music.
 The query is: {query} and the results are: {results}.
 
 # Task
 - You have to find the best match for the query from the results array.
+- Make sure the name of the song and artists in the query and the results are matching.
+- Do not consider the result to be a match if any other details match to the given query.
 - Your output should be in JSON markdown format.
 - Your output object should have the following fields:
     - best_match: The entire object from the results array that matches the query the best 
@@ -59,7 +60,10 @@ for index, item in enumerate(search_data):
 
     try:
         parsed_response = json.loads(string_response)
-        if parsed_response["best_match"]:
+        if (
+            parsed_response["best_match"]
+            and "feedbackTokens" in parsed_response["best_match"]
+        ):
             tokens.append(
                 {
                     "name": item["spotify"]["name"],
@@ -75,7 +79,7 @@ for index, item in enumerate(search_data):
     except json.JSONDecodeError as e:
         logger.error(f"Error parsing JSON response: {e}")
 
-    delay = 2.5 
+    delay = 2.1
     logger.info(f"waiting for {delay} seconds to prevent Gemini rate limits")
     time.sleep(delay)
 
